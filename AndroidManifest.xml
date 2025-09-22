@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.park.gunseohighschool"
+    android:versionCode="12"
+    android:versionName="1.2" >
+
+    <uses-sdk android:minSdkVersion="9" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.park.gunseohighschool.Main"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.park.gunseohighschool.Intro"
+            android:label="@string/title_activity_intro" >
+        </activity>
+        <activity
+            android:name="com.park.gunseohighschool.Meals"
+            android:label="@string/title_activity_meals" >
+        </activity>
+        <activity
+            android:name="com.park.gunseohighschool.Timetable"
+            android:label="@string/title_activity_timetable" >
+        </activity>
+        <activity
+            android:name="com.park.gunseohighschool.Schedule"
+            android:label="@string/title_activity_schedule" >
+        </activity>
+        <activity
+            android:name="com.park.gunseohighschool.Facebook"
+            android:label="@string/title_activity_facebook" >
+        </activity>
+        <activity
+            android:name="com.park.gunseohighschool.GunWeb"
+            android:label="@string/title_activity_gun_web" >
+        </activity>
+        <activity
+            android:name="com.park.gunseohighschool.Developer"
+            android:label="@string/title_activity_developer" >
+        </activity>
+        <activity
+            android:name="com.park.gunseohighschool.Third"
+            android:label="@string/title_activity_third" >
+        </activity>
+        <activity
+            android:name="com.park.gunseohighschool.First"
+            android:label="@string/title_activity_first" >
+        </activity>
+        <activity
+            android:name="com.park.gunseohighschool.Second"
+            android:label="@string/title_activity_second" >
+        </activity>
+        <activity
+            android:name="com.park.gunseohighschool.Introduction"
+            android:label="@string/title_activity_introduction" >
+        </activity>
+        <activity
+            android:name="com.park.gunseohighschool.Notice"
+            android:label="@string/title_activity_notice" >
+        </activity>
+        <activity
+            android:name="com.park.gunseohighschool.Library"
+            android:label="@string/title_activity_library" >
+        </activity>
+        <activity
+            android:name="com.park.gunseohighschool.History"
+            android:label="@string/title_activity_history" >
+        </activity>
+        <activity
+            android:name="com.park.gunseohighschool.Song"
+            android:label="@string/title_activity_song" >
+        </activity>
+        <activity
+            android:name="com.park.gunseohighschool.School_symbol"
+            android:label="@string/title_activity_school_symbol" >
+        </activity>
+    </application>
+
+</manifest>
