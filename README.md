@@ -1,11 +1,7 @@
 # 학군단 동기회 관리 시스템 (V1, 1인 개발)
 
-<img width="1430" height="944" alt="Image" src="https://github.com/user-attachments/assets/c2232652-605f-4118-a60e-4e87765d4136" />
-
-<img width="260" height="179" alt="Image" src="https://github.com/user-attachments/assets/3b87f915-61bd-4130-b486-4fd7e6be1890" />
-
 ## Abstract
-- 학군단 동기회에서 발송하는 SMS(회비 납부 독려, 생일, 경조사, 기념일, 명절 등)를 자동화하여 발 송하는 서비스를 개발함.
+- 학군단 동기회에서 발송하는 SMS(회비 납부 독려, 생일, 경조사, 기념일, 명절 등)를 자동화하여 발송하는 서비스를 개발함.
 
 ## Function
 - 매일 09시, FaaS에 등록된 Python Code를 실행하여 SMS을 발송해야 하는 이벤트가 있는 지 확인함.
@@ -26,3 +22,8 @@
 
 ## State
 - Retired
+
+<img width="1430" height="944" alt="Image" src="https://github.com/user-attachments/assets/c2232652-605f-4118-a60e-4e87765d4136" />
+
+<img width="260" height="179" alt="Image" src="https://github.com/user-attachments/assets/3b87f915-61bd-4130-b486-4fd7e6be1890" />
+
