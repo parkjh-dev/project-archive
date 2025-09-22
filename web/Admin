@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <body>
+        <script>
+            location.href = 'admin/admin.php';
+        </script>
+</body>
+</html>
