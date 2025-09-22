@@ -1,0 +1,8 @@
+2022-07-28 09:00:02	root	-Download File : [military_data_20211206.csv] No need to Update
+2022-07-28 09:00:02	root	+Download File : [military_data_20211206.csv] Success
+2022-07-28 09:00:02	root	+File Encoding : [/project/filter_update/military/data/military_data_20211206.csv] Success
+2022-07-28 09:00:02	root	+File open : [/project/filter_update/military/data/military_data_20211206.csv] Success
+2022-07-28 09:00:02	root	+File Analysis : [/project/filter_update/military/data/military_data_20211206.csv] Success
+2022-07-28 09:00:02	root	+Data Base: Connection Success
+2022-07-28 09:00:02	root	+Data Insert : 2835 Success
+2022-07-28 09:00:02	root	+Data Base: Disconnect Success

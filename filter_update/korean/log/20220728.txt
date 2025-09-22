@@ -1,0 +1,11 @@
+2022-07-28 09:00:02	root	+File Load: Load Success
+2022-07-28 09:00:02	root	+File Open : [1002030_77402.json] Success
+2022-07-28 09:00:02	root	+File Backup: [1002030_77402.json] Backup Success
+2022-07-28 09:00:02	root	+File Analysis : [1002030_77402.json] Analysis Success
+2022-07-28 09:00:02	root	+File Open : [1002030_50000.json] Success
+2022-07-28 09:00:02	root	+File Backup: [1002030_50000.json] Backup Success
+2022-07-28 09:00:02	root	+File Analysis : [1002030_50000.json] Analysis Success
+2022-07-28 09:00:02	root	+Data Base: Connection Success
+2022-07-28 09:00:02	root	+Data Insert : 72683 Success
+2022-07-28 09:00:02	root	+Data Base: Disconnect Success
+2022-07-28 09:00:13	root	-File Load: There is no update file
